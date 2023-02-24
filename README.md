@@ -41,3 +41,7 @@ and in another terminal, run:
 ```sh
 cd model && python main.py
 ```
+
+## License
+
+The AI model is licensed under the BigScience Bloom RAIL 1.0 license, and the bot is licensed under the MIT license.
