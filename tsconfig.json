@@ -1,0 +1,13 @@
+{
+  "include": ["api", "bot"],
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "commonjs",
+    "outDir": "build",
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
